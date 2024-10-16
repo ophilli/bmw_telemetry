@@ -1,0 +1,5 @@
+{
+    // This tells rust-analyzer not to run the `test` target (used for unit
+    // testing), this is temporary and unit tests can be added later
+    "rust-analyzer.check.allTargets": false
+}
